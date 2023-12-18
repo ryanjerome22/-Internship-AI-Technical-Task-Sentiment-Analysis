@@ -1,0 +1,499 @@
+,expected_sentiment,text,model_output,compound
+0,positive,Stellargirl love kind DX cool fantasy right,positive,0.633
+1,positive,Read kind love lee child good read,positive,0.8885
+2,positive,Ok first ass kind fuck rock,positive,-0.34
+3,positive,Kenburbari love kind live mine month never look back new big one huge need rumor,positive,0.872
+4,positive,Mikefish fair enough kind think perfect,positive,0.8555
+5,positive,Richardebak big I'm quit happy kind,positive,0.7964
+6,negative,Fuck economic hate AIG non loan given as,negative,-0.802
+7,positive,Jqueri new best friend,positive,0.8126
+8,positive,Love twitter,positive,0.6369
+9,positive,Love Obama make joke,positive,0.7506
+10,neutral,Check video preside Obama white house correspond dinner,neutral,0.0
+11,negative,Karoli firmly belief Obama Pelosi zero desire civil charade slogan want to destroy conserved,negative,-0.128
+12,positive,Hous correspond dinner last night whoop Barbara amp Sherri went Obama got stand oval,positive,0.0
+13,positive,Watchin seen new Nike comer puppet,positive,0.0
+14,negative,Dear Nike stop flower shit wa science ugly love Vincent,negative,-0.3182
+15,positive,Lebron best athlete genre time basketball relate want get inters port debut,positive,0.6705
+16,negative,Talk guy last night tell die hard spur fan also told hate LeBron Jame,negative,-0.7717
+17,positive,Love LeBron,positive,0.6369
+18,negative,Ludajuic LeBron beast I'm still cheer end,positive,0.5106
+19,positive,Pmillzz LeBron bos,positive,0.0
+20,positive,Sketchbug LeBron hometown hero lol love later let go CAV lol,positive,0.9246
+21,positive,Lebron drunk awesome duo,positive,0.4019
+22,positive,Wordwhizkid LeBron beast nobody NBA come even close,positive,0.0
+23,positive,Download app iPhone much fun liter app any,positive,0.5106
+24,positive,Good news call visa office say every relief sick scam steal,positive,-0.6369
+25,positive,Awesom come back biz via Edilson,negative,0.0
+26,positive,Montreal long weekend ramp much need,positive,0.0
+27,positive,Booz Allen Hamilton badass homegrown social collator platform way cool TIV,positive,0.1779
+28,positive,Mluc custom into award winner book Allen Hamilton,positive,0.8074
+29,positive,Sochi current use Nikon love much canon chose video feature mistake,positive,0.4215
+30,neutral,Need suggests good IR filter canon got pl dm,neutral,0.4404
+31,neutral,Surfit check Google bus blip show second entry huh good BA,neutral,0.4404
+32,positive,Phyreman Google away good place look mention work mustang w dad nimble,positive,0.4404
+33,negative,Play android Google phone slide screen scare would break fucker fast still prefer iPhone,negative,-0.7269
+34,negative,Us plan resume military tribune Guantánamo Bay time trial AIG exec Chrysler debt holder,negative,-0.3612
+35,negative,Omg bore amp tattoo itch help aha,negative,0.1779
+36,negative,Im itch miser,negative,-0.4215
+37,negative,Sekseemess I'm itch may later lol,negative,0.4215
+38,positive,Rt lesser love Verdi Stanford human biology video make miss school,positive,0.5574
+39,positive,Spinuzzi bit crazy steep learn curve LyX really good long doc any shorter would insane,positive,-0.228
+40,positive,Im listen Dannie Goya Lt Lt Lt aww he amaze Lt much,positive,0.5423
+41,positive,Go sleep bike ride,negative,0.0
+42,negative,can't sleep tooth ACH,negative,0.0
+43,negative,Blah blah blah old plan today go back sleep guess,negative,-0.296
+44,negative,Glad didn't bay breaker today freak degree San Francisco WTF,negative,-0.6633
+45,neutral,San Francisco bay breaker,neutral,0.0
+46,neutral,Land San Francisco,neutral,0.0
+47,neutral,San Francisco today suggest,neutral,0.0
+48,negative,Obama administer must stop bonus AIG Ponzi schemer,negative,0.3182
+49,negative,Start think city really deep same gonna survive turmoil gonna next AIG,negative,-0.3612
+50,negative,Shaunwoo eaten AIG,negative,0.0
+51,positive,Yarnth regret go see Star Trek awesome,positive,0.3182
+52,neutral,Way see Star Trek Esquire,neutral,0.0
+53,neutral,Go see Star Trek soon dad,neutral,0.0
+54,negative,Annoy new trend internet people pick apart Michael look Malcolm Gladwell nobody want to read,negative,-0.3818
+55,neutral,Bill Simon cover Malcolm Gladwell,neutral,0.0
+56,positive,Highli recommend Malcolm Gladwell,positive,0.3612
+57,positive,Blink Malcolm Gladwell amaze book tip point,positive,0.5423
+58,positive,Malcolm Gladwell might new man crush,positive,-0.1531
+59,negative,Omg commerce along ESPN go drive nut,negative,0.0
+60,positive,Robmalon play Twitter API sound fun may need take class find new friend like genre result API code,positive,0.886
+61,neutral,Play curl Twitter API,neutral,0.34
+62,positive,Hello Twitter API,neutral,0.0
+63,neutral,Play java Twitter API,neutral,0.34
+64,negative,Morind Twitter API slow client good,negative,0.4404
+65,negative,Yahoo answer butt sometime,negative,0.0
+66,positive,Scrapbook NIC,positive,0.0
+67,positive,Rt Mashable five thing Wolfram Alpha better vastly differ Google,positive,0.4404
+68,positive,Chang default pic Nike basketball car ball awesome,positive,0.6249
+69,neutral,Nike own NBA playoff ad w LeBron Kobe Carmelo Adidas bill up Howard market brand,positive,0.0
+70,neutral,Next time ill call Nike,negative,-0.4215
+71,neutral,New blog post Nike SB dunk low premium white gum,neutral,-0.2732
+72,negative,Rt smartchickpdx told Nike layoff start today,negative,0.0
+73,positive,Back work Nike one fav word,positive,0.4588
+74,positive,Way I'm total inspire freak Nike commerce,positive,0.2023
+75,neutral,Give weak app engine interface use bird strike data test logo given,negative,-0.5267
+76,neutral,brand-new canon EO mp DSLR camera canon mm Len web technology thread brand-new canon EO,neutral,0.0
+77,positive,Class suppose come today,positive,0.0
+78,negative,Need someone explain lambda calculus,negative,0.0
+79,negative,Took graduate field exam compute science today not make feel like idiot lambda calculus,negative,-0.6608
+80,positive,Shout out East Palo Alto building karizmakaz cal GTA also thank profit doom universe hemp crack,positive,0.4019
+81,negative,Legalgeekeri yeah really live East Palo Alto could avoid guess summer,negative,0.0
+82,positive,Accanni dog great Stanford course thank make avail public really help inform start,positive,0.8622
+83,neutral,Nvidia name Stanford bill Dali chief scientist VP research,neutral,0.0
+84,neutral,New blog post Harvard versus Stanford win,neutral,0.5859
+85,positive,Work til pm let go later,positive,0.0
+86,negative,Damn North Korea,negative,-0.4019
+87,negative,Go ahead blow North Korea map already,negative,0.0
+88,negative,North Korea plea cease douchebaggeri china even like anymore,negative,0.3612
+89,negative,Hell Pelosi freaking china whose dime,negative,-0.8126
+90,negative,Burn cash Chrysler gm stop finance tsunami bailout mean take handout,negative,-0.3818
+91,negative,Insect infect spinach plant,negative,0.0
+92,negative,Wish could catch every mosquito world n burn them biting shit out of day mosquito asshol insect,negative,-0.2263
+93,negative,Got back church total hate insect,negative,-0.5719
+94,negative,Got McDonald goddam egg make sick yeah later date go later much update well true suck,negative,-0.5574
+95,positive,Omgg hide want McDonald damn wonder open lol,positive,-0.0772
+96,negative,Histori exam studio ugh,negative,-0.4215
+97,negative,Hate revise bore total unprepared exam tomorrow thing look good,negative,-0.4215
+98,negative,Higher physic exam tomorrow looking forward much,negative,0.0
+99,negative,Bank holiday yet I'm work exam season suck,negative,-0.0516
+100,negative,Cheney bush real culprit,negative,0.0
+101,negative,Life bitch Dick Cheney p bipart lot Scot her GOP DNC,negative,-0.7964
+102,negative,Dick Cheney dishonest speech torture terror Obama Fred Kaplan slate,negative,-0.936
+103,negative,Republican part bunch antiabort zealot draw fly dump Neal built radio,negative,-0.6705
+104,negative,Twitter connect API broken tweet make Twitter,negative,-0.4767
+105,negative,Srsli hate stupid Twitter API timeout thing so annoy,negative,-0.8966
+106,positive,Psychemedia really like Friedberg learn jQuery book worth look,positive,0.5709
+107,neutral,Jqueri UI book review,neutral,0.0
+108,positive,Interest ad adobe good bi Silverstein amp partner YouTube adobe c LE sen proper,positive,0.7096
+109,positive,Goodbi Silverstein agency new site great,positive,0.6249
+110,positive,Rt design play good bi Silverstein new site enjoy nice find,positive,0.8834
+111,positive,Ever amaze stop good bi Silverstein amp partner hp go play effect,positive,0.765
+112,positive,Top ten watch viral video chart love Nike mostvaluablepuppet campaign widen amp Kennedy,positive,0.7184
+113,positive,Zomg g,positive,0.0
+114,positive,Ok lot buzz Io luck free g,positive,0.8176
+115,positive,Got free g android Google,positive,0.5106
+116,positive,Guess ill retire g start use develop g foot Google,positive,-0.4215
+117,neutral,Gwt fireside chat Google,neutral,0.0
+118,positive,Happi Philip Google today,positive,0.0
+119,positive,Laker play great cannot wait Thursday night later v,positive,0.7579
+120,neutral,Hi anyone great source advice viral market,positive,0.6249
+121,positive,Judd apathy great fake sitcom market new move viral market best,positive,0.6124
+122,neutral,Here case studio use viral market add people list,neutral,0.0
+123,negative,Viral market fail acid pill brand ought get shut hack people messing get msg day Arif,negative,-0.5423
+124,positive,Watch night museum LMAO,positive,0.6841
+125,positive,Love night museum,positive,0.6369
+126,neutral,Go see new night museum move family oh boy three-year-old move Food,neutral,0.0
+127,positive,Got back move went see new night museum Rachel good,positive,0.4404
+128,neutral,Saw new night museum,positive,0.0
+129,neutral,Go see night museum tall boy,neutral,0.0
+130,positive,Shannyoday take date see night museum when look so good,positive,0.5777
+131,positive,Watch night museum get really good,positive,0.4927
+132,positive,Night museum wolverine junk food perfect Monday,positive,0.5719
+133,positive,Saw night museum last night pretty crazy move cast awesome well worth robin William fore,positive,0.836
+134,neutral,Saw night museum battle Smithsonian today okay topic kid Ben Stiller move,neutral,-0.1779
+135,neutral,Take Kate see night museum pick,neutral,0.0
+136,negative,Night museum tonic instead oh well yr old better enjoy lol,negative,0.875
+137,neutral,Gm say expect announce sale hummer soon router WDSU say expect announce sale hummer,neutral,0.0
+138,negative,Unfortun stimulus plan put place twice help gm back American people led inherit,negative,0.4019
+139,negative,Tell give gm use program support employ,negative,0.4019
+140,negative,Jdreiss oh ye gm die worth boo hahaha,negative,0.1531
+141,negative,Time Warner call rd time sync memory day bummer,negative,-0.3818
+142,negative,Would rather pay reason yearly tax-free fast internet get Doug Time Warner slow connect,negative,-0.1027
+143,negative,Noo DVR die half way ea presser hate Time Warner,negative,-0.8225
+144,negative,Fck Time Warner call faking suck ball HD TV amp damn HD channel hardly ever come bullshit,negative,-0.8987
+145,negative,Time Warner work custom service ever never use,negative,0.0
+146,negative,Time Warner devil worst possible time internet go,negative,-0.8591
+147,negative,Fuck internet damn Time Warner,negative,-0.7351
+148,negative,Time Warner really pick worst time work want to get watch hill TFF,negative,-0.6222
+149,negative,Hate Time Warner so wish via can't watch cricket met game w buffer feel like I'm watch free internet porn,negative,0.6799
+150,negative,Rid stupid Time Warner today amp take nap room cook pretty good end Monday,negative,0.4019
+151,negative,Time Warner HD line crap,negative,-0.3818
+152,negative,Fuck Time Warner call didn't know modem could explode Susan boy suck,negative,-0.7506
+153,neutral,Time Warner call pull plug girlfriend expert,negative,0.0
+154,negative,Time Warner call slogan call day pm happen,negative,0.0
+155,neutral,Rocawear head china build store,neutral,0.0
+156,neutral,Climat focus turn bad unit nation u European govern call china coo,neutral,-0.5423
+157,neutral,Myfoxdc Barry student back trip china Silver Spring high school class trip china en,neutral,0.0
+158,neutral,Three china aerospace giant develop Tianjin Sinai new area b yuan invest,neutral,0.0
+159,neutral,Gm CEO china continue key partner,neutral,0.0
+160,neutral,Rt latimesauto time buy gm car,negative,0.0
+161,negative,Recov surgery wish julesrenn,negative,0.4019
+162,positive,Wrist still hurt get look hate Dr dentist scar place time watch Earl eye want join TXT,negative,-0.6808
+163,neutral,Dentist tomorrow brush well morn like make hair nice get cut,negative,0.6486
+164,negative,Dentist lie u feel discomfort prob even need pain pill man u tipping shit hurt Mani pill take,negative,-0.9201
+165,negative,Kirstiealley dentist great expense,negative,0.6249
+166,neutral,Kirstiealley pet dentist,neutral,0.0
+167,positive,Stude math tomorrow exam dentist,negative,0.0
+168,negative,Dentist wrong,negative,-0.4767
+169,negative,Go dentist later,negative,0.0
+170,negative,Son look car online hate car shop would rather go dentist anyone good car good price sell,negative,0.2732
+171,neutral,Ncaa baseball super region ram club,neutral,0.5994
+172,neutral,Start play major league baseball k,neutral,0.34
+173,neutral,Cardin baseball advance super region face Fullerton Friday,neutral,0.5994
+174,neutral,Soni coupon code expire soon,neutral,0.0
+175,neutral,Wait line Safeway,neutral,0.0
+176,negative,Luke got stop walk Safeway ask empty pocket lift shirt jack,negative,-0.4588
+177,neutral,Realiz gym Safeway,neutral,0.0
+178,neutral,Xphile three word Safeway dot com,neutral,0.0
+179,positive,Safeway rock n roll tonight,positive,0.0
+180,neutral,Bout hit Safeway gotta eat,neutral,0.0
+181,neutral,Jake go Safeway,neutral,0.0
+182,neutral,Found Safeway pick stall,neutral,-0.2023
+183,neutral,Safeway supermarket via Mobil coupon,neutral,0.0
+184,negative,Safeway bathroom still smell like as,negative,0.3612
+185,negative,Safeway elk horn move like Thar dead,negative,-0.4215
+186,neutral,Normal weight get normal eat blog,neutral,0.0
+187,neutral,Eat watch move,neutral,0.0
+188,neutral,Eat sashimi,neutral,0.0
+189,neutral,Eat homemade Yuma,neutral,0.0
+190,neutral,Eat cake,neutral,0.0
+191,positive,Love dwight Howard vitamin water commerce wish Nike Adidas lol,positive,0.8979
+192,negative,Found not Nike factor banana republic outlet,negative,0.0
+193,neutral,Iphon may get radio tag Nike recentlyreleas ITU version suggest voice function,positive,0.0
+194,positive,Lovin Nike already that run spot bedroom,positive,0.0
+195,neutral,Launch research Ajax jQuery web app,neutral,0.0
+196,positive,Matthewcyan final got around use jQuery make bio collapse yay slide anime,positive,0.0516
+197,neutral,Rt jQuery ultimo jQuery list,neutral,0.0
+198,neutral,Extract openwork jQuery plugin storm weight highlight text regular express,neutral,0.34
+199,neutral,Annadebenham PHP jQuery hack,neutral,0.0
+200,neutral,Jqueri cheat sheet,neutral,-0.4588
+201,neutral,Begin JavaScript CSS develop jQuery JavaScript CSS jQuery,neutral,0.0
+202,positive,Pdubyad right lol well get high expect Warren Buffett style,positive,0.5994
+203,positive,Rt blknpreciou rt great drop someone sit shade today someone plant tree long time ago Warren Buffett,positive,0.4588
+204,neutral,Warren Buffett economic,neutral,0.0
+205,positive,Warren Buffett became time richest man unit state work invest big idea lead fortune,positive,0.5267
+206,positive,Accord great school not dame receive NCAA higher rate sweet,positive,0.7964
+207,neutral,Allstar basketball classic Tuesday feature top talent Chattanooga not dame high school play host,neutral,0.7184
+208,positive,Blondebroad deficit warrant amp expert Amazon support kind great contact kind,positive,0.9118
+209,neutral,Rt look avail Amazon kind lamp kind DX get top electron book reader period free day ship,positive,0.7825
+210,negative,Time Warner roadrunner custom support absolute blow hate high net option I'm read go nuclear,negative,-0.25
+211,negative,Time Warner call phone rep r dumber nail ugh call work min ago WTF,negative,-0.87
+212,negative,Siratomofbon TRI Time Warner nice record today,negative,0.4215
+213,negative,Omg Time Warner fed internet install instead today next Saturday not week w internet ampehfavfhg FM,negative,0.0
+214,negative,Never seen line long Time Warner ugh,negative,-0.4215
+215,negative,Impati await arrive Time Warner guy way pretty inside afternoon,negative,0.5574
+216,neutral,Man accost roger FEDER french open,neutral,0.0
+217,negative,Naiv bay use em text classic really frustrate,negative,-0.5095
+218,positive,Went Stanford universe today got tour made want to go back college also decide kid go,positive,0.0772
+219,neutral,Investig pend death Stanford c prof Google mentor Rajeev motion tip techie,neutral,-0.5994
+220,neutral,Im go bed success weekend Stanford come,neutral,0.5719
+221,negative,Karrisfoxi harass call car warrant Chang number fix call every number bag,negative,-0.3818
+222,negative,Block unit blood service use Google voice call car warrant guy,negative,-0.4404
+223,negative,Atampt complete fail,negative,-0.5423
+224,negative,Broskii oh snap work attempt,negative,0.0
+225,negative,Mbjthegreat really don't want attempt phone suck come signal,negative,-0.5268
+226,negative,Say cut small talk attempt new slogan OK give u money apology Bob Geldof,negative,0.2577
+227,negative,Piss attempt midcontract upgrade price iPhone I'm go pay so meth thought,negative,-0.4767
+228,negative,Safari fast even shitti attempt tether,negative,0.0
+229,negative,Im attempt fuck,negative,-0.5423
+230,negative,Springsingfiend Dyer sethdaggett shack attempt drop ball support crap new iPhone fail ATT suck,negative,-0.8126
+231,negative,Mmbarnhil yay glad got phone still damn attempt,negative,0.5719
+232,neutral,Googl wave develop sandbox account request,neutral,0.0
+233,negative,Talk cheap bin gill stick Google,negative,0.0
+234,negative,Defsound WTF point delete tweet still found summit search Twitter plea fix thank bye,negative,-0.4648
+235,neutral,Mattcutt Google profit stop show search cant see anymore,neutral,0.1779
+236,positive,Arunbasil love Google translate good day mate,positive,0.7964
+237,positive,Read new kind,positive,0.5267
+238,positive,Kindl came love,positive,0.6369
+239,positive,Love new kind name Kendra case u wonder cookbook tool because tell u trick best gift ever,positive,0.9382
+240,negative,Real AIG scandal,negative,-0.4404
+241,neutral,Twitter Apr app yet,neutral,0.0
+242,neutral,Pro follow twitter,neutral,0.0
+243,positive,Obama quit good comedian check dinner speech CNN fungi joke,positive,0.7717
+244,positive,Barack Obama show fungi side GTG great speech,positive,0.6249
+245,positive,Like guy Barack Obama show fungi side GTG,positive,0.3612
+246,positive,Obama speech pretty awesome last night,positive,0.8074
+247,positive,Read Bill Clinton fail Obama win,positive,0.0772
+248,positive,Obama popular among Arab survey preside Barack Obama popular lead Arab country,positive,0.6808
+249,positive,Obama got joke haha got watch a bit dinner speech last night I'm love Mr preside,positive,0.8555
+250,negative,Lebron Jame got car acid heard even can't belief ok,negative,-0.2235
+251,positive,Best playoff year oh yea LeBron melt final,positive,0.6369
+252,positive,Khalid LeBron best,positive,0.6369
+253,positive,Therealush LeBron cool like good char act,positive,0.7717
+254,positive,Watch LeBron highlight damn Biggs good,positive,0.3818
+255,positive,Lou LeBron murder shit,positive,-0.8519
+256,positive,Uscsport LeBron most SMH world ain't read,positive,-0.5149
+257,positive,Cthagod LeBron done NBA probably greater Kobe like u said Kobe good a lot good player,positive,0.8689
+258,positive,Kobe good BT LeBron vote,positive,0.4404
+259,negative,kobe the best world LeBron,positive,0.6369
+260,positive,Asherroth world cup access damn that good look,positive,0.0516
+261,positive,Bought ticket FIFA World Cup South Africa go great summer,positive,0.6249
+262,neutral,Share Wilson slide talk Google HQ,neutral,0.296
+263,negative,Go book Allen Hamilton hr meet get go home,negative,0.0
+264,positive,Great Indian Natasha truly unfold may result day Indian genre elect,positive,0.7906
+265,positive,Crlane kind live seen picture DX seen person love kind I'm everyday,positive,0.7405
+266,positive,Criticalpath awesome idea continue learn program kind,positive,0.8176
+267,neutral,Ok not think,neutral,0.296
+268,positive,Faithbabywear ooh model get love love,positive,0.8555
+269,positive,Time India wonder India elect,positive,0.0
+270,positive,Good video Google use search option,positive,0.4404
+271,negative,Ambcharlesfield lol ah skin itch damn lawn mow,negative,0.0258
+272,negative,Itchi back don't ya hate,negative,0.4585
+273,positive,Stanford charity fashion show top draw,positive,0.5574
+274,positive,Stanford universe Facebook profit one popular office universe page,positive,0.6908
+275,positive,Lyx cool,positive,0.3182
+276,positive,Soo disappoint sent Dannie Goya home still rock hometown hero yeah miracle,positive,0.7845
+277,positive,Rt passion model American Idol fashion Adam Lambert tone Dannie Goya cute,positive,0.7184
+278,positive,Dannygokey love Dannie Goya,positive,0.6369
+279,neutral,Rt justindavey rt tweeted gm OnStar instantly send acid local cordon GP ob,neutral,0.0
+280,negative,Tire sleep well last night,positive,0.2732
+281,negative,Board plane San Francisco hour hr flight beech,negative,0.0
+282,negative,Bonjour San Francisco back hurt last night,negative,-0.5267
+283,neutral,Breaker San Francisco ca,neutral,0.0
+284,neutral,Head San Francisco,neutral,0.0
+285,positive,Best girl hour San Francisco family wonder,positive,0.6369
+286,negative,F big go home AIG,negative,0.0
+287,positive,Went see Star Trek move last night satisfy,positive,0.4588
+288,positive,can't wait go see Star Trek tonight,positive,0.0
+289,positive,Star Trek good everyone said,positive,0.4404
+290,positive,Love new Malcolm Gladwell book outlier,positive,0.6369
+291,positive,Highli recommend Malcolm Gladwell tip point next audiobook probably one well,positive,0.5574
+292,negative,Malcolm Gladwell genius trick people realize he fuck idiot,positive,-0.7906
+293,negative,Sportsguy hey offer Malcolm Gladwell pretend annoy cunt bring can't read shit,negative,-0.5538
+294,positive,Rt clamor great article Malcolm Gladwell,positive,0.6249
+295,positive,Serious underestimate Malcolm Gladwell want meet dude,positive,-0.296
+296,negative,Hate Comcast right every call internet amp,negative,-0.5719
+297,negative,Comcast suck,negative,-0.4404
+298,negative,Day never deal Comcast rank one best day life,negative,0.6369
+299,negative,Domm Comcast fail,negative,-0.5423
+300,neutral,use Twitter API,neutral,0.0
+301,negative,Curs Twitter API limit,negative,0.0
+302,negative,See Dave wine scream lack Twitter API limit access throttle,neutral,-0.6124
+303,neutral,Test Twitter API,neutral,0.0
+304,negative,Arg Twitter API make crazy,negative,-0.34
+305,neutral,Test Twitter API remote update,neutral,0.0
+306,positive,Im really love new search site Wolfram Alpha make Google seem quaint,positive,0.6697
+307,negative,Wolfram Alpha suck even research inform provide le get Google Wikipedia total useless,negative,-0.6908
+308,positive,Nike factor,positive,0.0
+309,positive,New Nike Muppet commerce pretty cute live together,positive,0.7351
+310,neutral,New blog post Nike zoom LeBron soldier ii white black teal,neutral,0.0
+311,neutral,New blog post Nike trainer,neutral,0.0
+312,negative,Fraggl oh awesome wish own Nike,negative,0.7783
+313,positive,Tonyhawk awesome see show Friday shoreline amphitheater never seen NIN can't wait,positive,0.6249
+314,negative,Arhh weak bug spent almost two hour find crappie,negative,-0.4404
+315,positive,Mitz hey bud NP love although I'd love main,positive,0.9106
+316,positive,Jonduena Robinson got u office,positive,0.0
+317,positive,Pick new canon beauty prepare serious awesome photograph,positive,0.8225
+318,positive,Got new toy canon love love love,positive,0.9274
+319,positive,Learn lambda calculus,positive,0.0
+320,neutral,Job sitter help take care sick child East Palo Alto ca,neutral,0.3818
+321,positive,Im move East Palo Alto,positive,0.0
+322,positive,Atebit finish watch Stanford iPhone class session really appear rock,positive,0.0
+323,positive,Jktweet hi saw Stanford talk really like advice say hi Singapore ye video get around,positive,0.4201
+324,neutral,Mba admits tip Stanford GB deadline essay topic,neutral,0.296
+325,neutral,Ethic nonprofit Stanford social entrepreneurship,neutral,0.0
+326,positive,Laker tonight let go,positive,0.0
+327,positive,Laker kick nugget as tonight,positive,0.0
+328,negative,"ooh, North Korea trouble",negative,-0.4019
+329,negative,Wat heck North Korea conduct power nuclear test follow link,negative,0.0
+330,negative,Listen Obama frigging North Korea,negative,0.0
+331,negative,Realiz three monkey white Pelosi Sarah pain,negative,-0.5106
+332,negative,Foxnew Pelosi stay china never come back,negative,0.0
+333,negative,Nanci Pelosi gave worst comment speech I've ever heard ye I'm still bitter,negative,-0.7845
+334,negative,Ugh amount time stupid insect bitten grr,negative,-0.7351
+335,positive,Prettiest insect ever pink katydid,positive,0.5719
+336,negative,Got barrage hard insect hungry kitchen light scar,negative,-0.1027
+337,positive,Mcdonald dinner good big mac meal,positive,0.4404
+338,positive,"ahh, ye lol IMA tell hubby go get sum McDonald",positive,0.4215
+339,positive,Stop lunch McDonald chicken nugget yummy,positive,0.296
+340,positive,Could go lot McDonald mean lot,positive,0.0
+341,positive,Exam went good helloleoni prayer work,positive,0.4404
+342,positive,One exam left happy,positive,0.5719
+343,negative,Math review I'm go fail exam,negative,-0.5423
+344,negative,Colin power rock yesterday CB Cheney need shut he'll go man honor serve country proudly,negative,0.7783
+345,negative,Obvious side Cheney,negative,0.0
+346,positive,Absolut Hilary Mashable,positive,0.0
+347,positive,Mashabl never thank include top twitter author rock amp new wave,positive,-0.4023
+348,neutral,Learn jQuery book review,neutral,0.0
+349,positive,Rt shop awesome jQuery refer book coda web design,positive,0.6249
+350,positive,Ive send email like crazy today anyone contact good bi love to speak,positive,0.802
+351,neutral,Adob c commerce good bi Silverstein,positive,0.4404
+352,positive,Goodbi Silverstein new site enjoy,positive,0.4939
+353,positive,"wow, everyone Google confer got free g month limit service",positive,0.7964
+354,positive,Vkerkez Food got free Google android phone confer g,positive,0.5106
+355,positive,Orli g amaze btw huge improve g,positive,0.8271
+356,positive,HTML demo lot great stuff come ye I'm exit Io Google,positive,0.6249
+357,positive,Googleio yay happy place place place love Google,positive,0.9062
+358,positive,Googleio OD bring graphic browser nice TBH fun fun,positive,0.8555
+359,positive,Awesom viral market fungi people,positive,0.0
+360,neutral,Watch program life Hitler enhance geek history,neutral,-0.2023
+361,negative,Saw night museum sheer deeper fund move,negative,0.0
+362,positive,Night museum pretty gherkin good,positive,0.7269
+363,positive,Watch night museum giggle,positive,0.4215
+364,neutral,Pambeeslyjenna Jenna went see night museum today surprise see three cast member office,neutral,0.2732
+365,neutral,Watch night museum Ryan Staci,neutral,0.0
+366,neutral,Get read go watch night museum dum give gum,neutral,0.0
+367,negative,Back see Star Trek night museum Star Trek amaze night museum eh,positive,0.5423
+368,positive,Watch night museum stinking cute,positive,-0.1027
+369,positive,Night museum awesome much better part next weekend well see,positive,0.8442
+370,neutral,Think may new favorite restart way see night museum,neutral,0.4588
+371,neutral,Sold I'm see night museum I'm year old,neutral,0.0
+372,positive,Saw new night museum love next go see,positive,0.6369
+373,negative,Shame gm for make car white house think sell think,negative,-0.4767
+374,negative,U may notice happy gm situate AIG Lehman et al.,negative,0.5719
+375,neutral,Obama nation gm short term app,negative,0.0
+376,negative,Pittstock gm good riddance sad though,negative,-0.0516
+377,negative,Never buy govern motor vehicle recent drove gm car sync bought,negative,0.0
+378,negative,Old coca cola guy gm board stupid heck Scot Ala,negative,-0.5267
+379,negative,Rantsandrav the worst thing gm concord pleasant hill Martinez fuck UAW,negative,-0.6486
+380,negative,Give man fish u feed day teach fish u feed life buy gm u OK good,negative,0.7034
+381,negative,Hear gm thing angry get a billion wa bullshit so meth like k employed,negative,-0.651
+382,negative,Quanttrad gm car junk far quality compare Honda,negative,0.0
+383,negative,Sad day bankrupt gm,negative,-0.7717
+384,negative,Upset whole gm thing life know screw,negative,-0.4588
+385,negative,Whoever run Time Warner need repeatedly rape rhino understand consent put shitti call SVC,negative,-0.5859
+386,neutral,Time Warner CEO hint online fee magazine app read mountain view unit state view,neutral,0.0
+387,negative,Wftb join a bit late connect boo Time Warner,negative,0.296
+388,negative,Cox Time Warner cox cheaper get b report TW expense get c,negative,0.0
+389,negative,Furiou Time Warner phone promote,negative,0.3818
+390,negative,Got home Chick-fil-A boy damn internet stupid Time Warner,negative,-0.7269
+391,negative,Could timeworn call suck,negative,-0.4404
+392,negative,Piss Time Warner causing slow internet problem,negative,-0.6597
+393,negative,Sportsguy umm Time Warner problem,negative,-0.4019
+394,negative,Guy see Time Warner suck much as really wish could get user apart,negative,0.024
+395,negative,Rt sport guy upside Time Warner help phone over super slow onset service crap that upside,negative,0.6124
+396,negative,Rt sport guy new Time Warner slogan Time Warner make long day call,negative,0.0
+397,negative,Confirm Time Warner fault Facebook FB take minute load tempt switch Verizon,negative,-0.4019
+398,negative,Sportsguy Time Warner epic fail,negative,-0.5423
+399,neutral,Lawson head need Hong Kong bus china,neutral,0.0
+400,neutral,Weird piano guitar house china,neutral,-0.1779
+401,neutral,Send u gm Chevy photo,neutral,0.0
+402,negative,Know sad rt calamari st day hurricane season that le scary govt take gm,negative,-0.743
+403,negative,Gm file bankruptcy good sign,negative,0.4404
+404,positive,Yanke met lost good day,positive,0.1531
+405,positive,Dentist apt today actual quit enjoy,positive,0.4939
+406,negative,Hate EF dentist,negative,-0.5719
+407,neutral,Stevemoakl dentist apt morn cover,neutral,0.0
+408,negative,Kirstiealley hate go dentist,negative,-0.5719
+409,negative,Hate invent anyway,negative,-0.5719
+410,negative,Dentist office cold,negative,0.0
+411,neutral,Check video David dentist,neutral,0.0
+412,neutral,First dentist appoint year Wednesday possible,neutral,0.0
+413,neutral,Tom Shanahan the latest column SDSU NCAA baseball region appear,neutral,0.0
+414,neutral,Blog baseball America prospect blog,neutral,0.296
+415,neutral,Portland city polio may undo baseball park,neutral,0.0
+416,neutral,Rt waterside ca mere water bottle Safeway resold profit well DRI across county,neutral,0.6124
+417,neutral,Drop broccoli walk home Safeway depress,neutral,-0.6486
+418,neutral,Ronjon Safeway,neutral,0.0
+419,positive,Appli Safeway yes,positive,0.4019
+420,negative,Safeway place nightmare right bum,negative,0.0
+421,neutral,Safeway dad,neutral,0.0
+422,negative,Hate Safeway select green tea ice cream bought two carton wa money gilt,negative,-0.5719
+423,neutral,Safeway Marvin panel anti LHC,neutral,-0.3182
+424,neutral,Safeway offer Mobil coupon,neutral,0.0
+425,neutral,Philli drive Cadillac top Cali win,positive,0.6808
+426,neutral,Save money opt grocery store trip stock food hotel room fridge v eat every night town,neutral,0.4939
+427,neutral,Loung around eat Taco Bell watch NCI work tonight need help stay away,neutral,0.4019
+428,neutral,Eat breakfast school,neutral,0.0
+429,neutral,Still hungry eat,neutral,0.0
+430,neutral,Tip health eat result bi fit blog fit,neutral,0.6124
+431,neutral,Boyfriend eat quesadilla,neutral,0.0
+432,neutral,Eat dinner meat chip risotto,neutral,0.0
+433,neutral,Got new pair Nike shoe pic later,neutral,0.0
+434,neutral,Nike SB blazer high ACG custom brad Douglas,neutral,0.0
+435,positive,Nike rock I'm super grate I've done amp European Davis Nike beyond whilst muchasmuert,positive,0.5994
+436,neutral,Nike air Yeezy khaki pink colorway release,neutral,0.0
+437,positive,Evelynbyrn TRI Nike v addict,positive,0.0
+438,neutral,Erickoston look aw lot like one Nike private saying,positive,0.3612
+439,positive,Nike train club beta iPhone app look interest,positive,0.4588
+440,negative,Argghh jQuery appear safari bad safari,negative,-0.5423
+441,neutral,Devsnippet jQuery tool JavaScript UI common web,neutral,0.0
+442,neutral,Ajaxjqueri CSS JavaScript Mani example,neutral,0.0
+443,positive,Im read drop pretend fore love jQuery want marry sorry laid nerd,positive,0.128
+444,neutral,Cold look Google chart visual API found jQuery wrapper API,neutral,0.0
+445,neutral,Spent day read jQuery book start drink delirium Bremen,neutral,0.0
+446,neutral,Jqueri selector,neutral,0.0
+447,neutral,Implement news ticker jQuery ten line code,neutral,0.0
+448,neutral,What buffet Warren Buffett kick butt battle boot post Alex crisp,neutral,-0.3818
+449,positive,Super investor great weekend read Warren Buffett old good,positive,0.8979
+450,neutral,Im truly brain dead come Warren Buffett name save soul,neutral,0.2023
+451,positive,Read Michael pain book python book also recommend Warren Buffett amp Nelson Mandela bio,positive,-0.2023
+452,positive,Mean I'm not dame good school ID closer Dan I'd enjoy,positive,0.2008
+453,negative,can't watch TV without Tito year Time Warner DVR still suck,negative,-0.4404
+454,positive,I'd say sport writer idiot say roger FEDER one best ever tennis roger feder the best ever tennis,positive,0.7269
+455,negative,Still love kind read New York time feel nature miss Bloomingdale ad,negative,0.7906
+456,positive,Love kind stack book trip way loo,positive,0.8225
+457,negative,Although today keynote rock every great announce attempt shit u little bit,negative,0.128
+458,negative,Sheridanmarfil much ob cell phone iPhone I'm slave attempt fore,negative,0.0
+459,neutral,Freitasm oh see thought attempt MHz CDMA,neutral,0.0
+460,neutral,Plip read tether support Phil attempt join,neutral,0.5994
+461,negative,Fuzzbal fun attempt p,negative,0.5106
+462,negative,Today good day dislike attempt vote office index danielpunkass,negative,0.0772
+463,positive,Got wave sandbox invite extra exit bad class ill play soon enough Io wave,positive,-0.5106
+464,negative,Look like summit gone Mani tweet WWDC perhaps,negative,0.3612
+465,neutral,Hope girl work buy kind,positive,0.743
+466,neutral,Miss insightful may column one smart guy look close he impress kind rough,neutral,0.8126
+467,positive,Sklososki thank much one happy kind winner surprise Kabul thank best Kathleen,positive,0.969
+468,negative,Man kinda dislike apply right case point iPhone g wish video record app plea,negative,0.101
+469,positive,Cwong kind lamp son pr like physic device feel good font nice pg turn snappy ENEF UI little clunky,positive,0.891
+470,positive,Kindl seem best read work UK get one,positive,0.6369
+471,positive,Googl addict thank point Annamaria hahaha,positive,0.7269
+472,neutral,Rubygem primary debit card visa electron,neutral,0.0
+473,neutral,Bank get new visa platinum card,neutral,0.0
+474,negative,Dearest Google rich bastard visa card sent work screw little guy like,negative,0.6728
+475,neutral,Date Bobbi flay gut fair food network,neutral,0.3182
+476,positive,Excit see Bobbi flay guy fair tomorrow great American food amp music fest,positive,0.7506
+477,positive,Gonna go see Bobbi flay Moro shoreline eat drink gonna good,positive,0.4404
+478,positive,Cant wait great American food music festive shoreline tomorrow pastrami Bobbi flay ye plea,positive,-0.0757
+479,positive,Dad NY day ate mesa grill last night met Bobbi flay much fun except complete lost voice today,positive,0.25
+480,negative,Fight latex,negative,-0.3818
+481,negative,Iheartseveru love want die latex devil,negative,-0.5859
+482,negative,Hour hour ink cap crash normal solid rock hour latex complain the slightest thing can't take,negative,-0.5574
+483,neutral,Track Iran social medium,neutral,0.0
+484,negative,Shit hit fan irancrazi index bracelet,negative,-0.3182
+485,negative,Monday already Iran may implode kitchen dismast annals seem happy Seoul nice weekend gold panda great whoop,negative,0.891
+486,neutral,Twitter stock buzz AAPL ESF SPI six palm update pm,neutral,0.0
+487,positive,Get read test burger recap weekend Bobbi flay great recap TRI thank Bobbi,positive,0.765
+488,neutral,Johncmay Bobbi flay join,neutral,0.296
+489,positive,Lam love Bobbi flay favorite rt terrysimpson belay need place phoenix great pepper,positive,0.9062
+490,negative,Creat first latex file scratch work well see amandabittn great time waster,negative,0.7351
+491,positive,Use Linux love much nicer window look forward use WYSIWYG latex editor,positive,0.7964
+492,positive,Use latex lot typeset mathematic look hideout,positive,0.0
+493,neutral,Ask program latex InDesign submit calico link comment,neutral,0.0
+494,negative,Note hate word hate page hate latex said hate latex tend come kill,negative,-0.9661
+495,positive,"ahh, back real text edit environ Lt latex",positive,0.0
+496,negative,Troubl Iran see hmm iran far away flockofseagullsweregeopoliticallycorrect,negative,0.0
+497,negative,Read tweet come Iran whole thing terrific inbred sad,negative,0.0
